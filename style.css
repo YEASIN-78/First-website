@@ -1,0 +1,225 @@
+body{
+
+	font-family: 'Poppins', sans-serif;
+	
+}
+
+
+.conatiner{
+	width: 90%;
+	margin: auto;
+}
+
+/* nav area start */
+
+.nav{
+	width: 80%;
+	float: left;
+	padding: 30px 20px;
+   
+}
+
+.nav ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+
+.nav ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.nav ul li a{
+	color: black;
+	font-size: 50px;
+	text-decoration: none;
+	padding: 10px 20px;
+	font-weight: bold;
+}
+/* nav area end */
+
+/* section area one start */
+
+
+h1{
+	font-size: 50px;
+}
+.name-highlighter-1{
+	color: blue;
+}
+.name-highlighter-2{
+	color: orange;
+}
+
+.half-width{
+	width: 42%;
+	float: left;
+}
+.half-width img{
+	width: 100%;
+}
+.link-btn{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px 15px;
+	border-radius: 5%;
+	background-image: linear-gradient(to right,tomato,lightsalmon);
+	font-weight: 700;
+	color: white;
+}
+
+
+/* section area one end */
+
+
+/* section area two start */
+.half-width h1{
+	color: tomato;	
+}
+#download-link{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px 15px;
+	border-radius: 5%;
+	background-image: linear-gradient(to right,tomato,lightsalmon);
+	font-weight: 700;
+	color: white;
+}
+/* section area two end */
+
+/* section area three start */
+
+.latest-works-heading h1{
+	display: inline-block;
+	text-align: center;
+	margin-left: 20%;
+
+}
+.latest-works-heading h1 span{
+	color: tomato;
+}
+
+.project{
+	width:30%;
+	float: left;
+	text-align: center;
+	margin-left: 20px;
+	margin-top: 50px;
+	border: 1px solid white;
+    border-radius: 5%;
+    box-shadow: 10px 10px 30px gray;
+    height: 450px;
+
+}
+
+
+
+.project h1{
+	color: gray;
+	margin-top: 5px;
+}
+
+.project h2 {
+    padding: 0px;
+    margin: 11px;
+}
+.project h4{
+	margin-top: 0px;
+}
+
+.project img{
+	width: 350px;
+	height: 250px;
+}
+/* section area three end */
+
+/* section area four start */
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.half-width{
+	margin-left: 20px;
+}
+
+
+.half-width h1{
+	    text-align: left;
+}
+.half-width p{
+	font-size: 30px;
+}
+
+.half-width p span{
+		color: blue;
+		padding: 10px 10px;
+		box-shadow: 10px 10px 20px gray;
+		border-radius: 10px;
+}
+
+.client-review{
+	box-shadow: 10px 20px 35px gray;
+	padding: 15px 20px;
+	border-radius: 20%;
+	margin-left: 30px;
+}
+
+/* section area four end */
+/* section area five start */
+
+
+.query{
+	display: inline-block;
+	text-align: left;
+}
+
+.btn{
+	text-align: right;
+	text-decoration: none;
+	padding: 10px 20px;
+}
+
+.social_site{
+	text-align: center;
+}
+footer {
+    clear: both;
+    padding: 100px 0px 50px 0px;
+}
+.bottom-footer {
+    clear: both;
+}
+
+.work-tex h2 {
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+.work-btn {
+    margin: auto;
+    text-align: right;
+    padding: 15px;
+}
+.work {
+    background-image: url('img/bg-.png');
+    padding: 50px 0px 90px 0px;
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bottom-footer {
+    clear: both;
+    padding-top: 50px;
+}
+/* section area five end */
